@@ -1,0 +1,29 @@
+blueranger (0.1-1kali4) kali-dev; urgency=medium
+
+  * Update usage example
+
+ -- Joseph O'Gorman <gamb1t@kali.org>  Sun, 09 Jun 2019 11:22:04 -0400
+
+blueranger (0.1-1kali3) kali; urgency=low
+
+  * Removed desktop files
+
+ -- Mati Aharoni <muts@kali.org>  Fri, 14 Dec 2012 19:43:56 -0500
+
+blueranger (0.1-1kali2) kali; urgency=low
+
+  * Fixed desktop file
+
+ -- Mati Aharoni <muts@kali.org>  Sat, 01 Dec 2012 11:44:12 -0500
+
+blueranger (0.1-1kali1) kali; urgency=low
+
+  * Kali Version
+
+ -- Devon Kearns <dookie@kali.org>  Tue, 06 Nov 2012 06:59:29 -0700
+
+blueranger (0.1-1) kali; urgency=low
+
+  * Initial release
+
+ -- Devon Kearns <dookie@kali.org>  Tue, 06 Nov 2012 06:47:48 -0700

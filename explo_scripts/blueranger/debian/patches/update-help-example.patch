@@ -1,0 +1,9 @@
+diff --git a/blueranger.sh b/blueranger.sh
+index 9fe3fc6..05cb880 100755
+--- a/blueranger.sh
++++ b/blueranger.sh
+@@ -16,3 +16,3 @@ then
+ 	echo -e "\nSYNOPSIS"
+-	echo -e "        blueranger.sh <hciX> <bdaddr>"
++	echo -e "        $0 <hciX> <bdaddr>"
+ 	echo -e "\nDESCRIPTION"
